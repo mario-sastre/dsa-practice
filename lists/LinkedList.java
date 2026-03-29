@@ -1,7 +1,7 @@
 
 class ListNode{
   ListNode next; 
-  Integer val; 
+  int  val; 
 
   public ListNode(){
     this.val = 0; 
